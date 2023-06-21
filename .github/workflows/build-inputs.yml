@@ -21,7 +21,7 @@ on:
         - "default"
         - "AZERTY"
         - "BEAKL15"
-        - "Colemak"
+        - "ColemakDH"
         - "ColemakDHK"
         - "Dvorak"
         - "Halmak"

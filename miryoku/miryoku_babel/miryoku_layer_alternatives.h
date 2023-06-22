@@ -373,7 +373,7 @@ U_NP,              U_NP,              U_NA,              U_NA,              U_NA
 
 #define MIRYOKU_ALTERNATIVES_SYM \
 &kp TAB,           &kp PIPE,          &kp AMPS,          &kp LBRC,          &kp RBRC,          &kp PLUS,          &kp MINUS,         &kp QMARK,         &kp EXCL,          U_NA,              \
-&kp CARET,         &kp EXCL,          &kp PRCNT,         &kp LPAR,          &kp RPAR,          &kp ASTRK,         &kp UNDER,         &kp GT,            &kp LT,            &kp DQT,           \
+&kp CARET,         &kp EXCL,          &kp PRCNT,         &kp LPAR,          &kp RPAR,          &kp ASTRK,         &kp UNDER,         &kp LT,            &kp GT,            &kp DQT,           \
 &kp TILDE,         &kp DLLR,          &kp AT,            &kp LBKT,          &kp RBKT,          &kp FSLH,          &kp BSLH,          &kp SEMI,          &kp COLON,         &kp APOS,          \
 U_NP,              U_NP,              &kp DOT,           &kp N0,            &kp EQUAL,         U_NA,              U_NA,              &kp BSPC,          U_NP,              U_NP
 

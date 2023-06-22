@@ -354,7 +354,7 @@ U_NP,              U_NP,              U_NA,              U_NA,              U_NA
 //U_NP,              U_NP,              &kp DOT,           &kp N0,            &kp MINUS,         U_NA,              U_NA,              U_NA,              U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_NUM \
-&kp TAB,           &kp N7,            &kp N8,            &kp N9,            &kp SEMI,          &kp PLUS,          &kp MINUS,         &kp LPAR,          &kp RPAR,          U_NA,              \
+&u_to_U_NUM,       &kp N7,            &kp N8,            &kp N9,            &kp SEMI,          &kp PLUS,          &kp MINUS,         &kp LPAR,          &kp RPAR,          &u_to_U_BASE,      \
 &kp SEMI,          &kp N4,            &kp N5,            &kp N6,            &kp COLON,         &kp ASTRK,         &kp UNDER,         &kp LBRC,          &kp RBRC,          &kp LSHFT,         \
 &kp APOS,          &kp N1,            &kp N2,            &kp N3,            &kp QMARK,         &kp FSLH,          &kp BSLH,          &kp HASH,          &kp DLLR,          &kp LCTRL,         \
 U_NP,              U_NP,              &kp DOT,           &kp N0,            &kp EQUAL,         U_NA,              U_NA,              &kp BSPC,          U_NP,              U_NP
@@ -372,7 +372,7 @@ U_NP,              U_NP,              U_NA,              U_NA,              U_NA
 //U_NP,              U_NP,              &kp LPAR,          &kp RPAR,          &kp UNDER,         U_NA,              U_NA,              U_NA,              U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_SYM \
-&kp TAB,           &kp PIPE,          &kp AMPS,          &kp LBRC,          &kp RBRC,          &kp PLUS,          &kp MINUS,         &kp QMARK,         &kp EXCL,          U_NA,              \
+&u_to_U_SYM,       &kp PIPE,          &kp AMPS,          &kp LBRC,          &kp RBRC,          &kp PLUS,          &kp MINUS,         &kp QMARK,         &kp EXCL,          &u_to_U_BASE,      \
 &kp CARET,         &kp EXCL,          &kp PRCNT,         &kp LPAR,          &kp RPAR,          &kp ASTRK,         &kp UNDER,         &kp LT,            &kp GT,            &kp DQT,           \
 &kp TILDE,         &kp DLLR,          &kp AT,            &kp LBKT,          &kp RBKT,          &kp FSLH,          &kp BSLH,          &kp SEMI,          &kp COLON,         &kp APOS,          \
 U_NP,              U_NP,              &kp DOT,           &kp N0,            &kp EQUAL,         U_NA,              U_NA,              &kp BSPC,          U_NP,              U_NP

@@ -16,5 +16,5 @@
   #define U_RGB_HUI &rgb_ug RGB_HUI
   #define U_RGB_SAI &rgb_ug RGB_SAI
   #define U_RGB_BRI &rgb_ug RGB_BRI
-  #define U_EP_TOG &ext_power EP_TOG
+  #define U_EP_TOG &ext_power EP_ON
 #endif

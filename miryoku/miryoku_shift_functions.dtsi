@@ -36,6 +36,6 @@ MIRYOKU_SHIFT_FUNCTION(u_rgb_hui, &rgb_ug RGB_HUI, &rgb_ug RGB_HUD)
 MIRYOKU_SHIFT_FUNCTION(u_rgb_sai, &rgb_ug RGB_SAI, &rgb_ug RGB_SAD)
 MIRYOKU_SHIFT_FUNCTION(u_rgb_bri, &rgb_ug RGB_BRI, &rgb_ug RGB_BRD)
 
-MIRYOKU_SHIFT_FUNCTION(u_ep_tog, &ext_power EP_TOG, &ext_power EP_OFF)
+MIRYOKU_SHIFT_FUNCTION(u_ep_tog, &ext_power EP_ON, &ext_power EP_OFF)
 
 #endif
